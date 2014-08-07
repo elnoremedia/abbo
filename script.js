@@ -27,13 +27,13 @@
 	// create the controller and inject Angular's $scope
 	scotchApp.controller('mainController', function($scope) {
 		// create a message to display in our view
-		$scope.message = 'Homepagina tekst';
+		$scope.message = 'Een warm welkom!';
 	});
 
 	scotchApp.controller('aboutController', function($scope) {
-		$scope.message = 'Over pagina tekst';
+		$scope.message = 'Over mij, de enige echte..';
 	});
 
 	scotchApp.controller('contactController', function($scope) {
-		$scope.message = 'Contactpagina tekst';
+		$scope.message = 'Te bereiken via:';
 	});

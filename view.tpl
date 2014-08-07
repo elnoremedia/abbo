@@ -19,5 +19,11 @@
 {/foreach}
 </table>
 <section>
+	<figure>
+		<img src="http://www.wpclipart.com/cartoon/animals/monkey_chimp/monkeys/monkey_wrench.svg" alt="Monkey with a wrench">
+		<figcaption>
+		Small monkey with a wrench.
+		</figcaption>
+	</figure>
 	<p>Test een twee drie</p>
 </section>
